@@ -21,16 +21,16 @@
 
 ## 🇦🇷 ¿Qué es coDueño?
 
-**coDueño** es un asistente inteligente para propietarios que gestionan alquileres en Argentina. Conectá tu Telegram, cargá tus propiedades e instrucciones, y dejá que la IA se encargue de las conversaciones con prospectos e inquilinos — en tu nombre, a cualquier hora.
+**coDueño** es tu segundo cerebro para gestionar alquileres en Argentina. Te asiste a través de Telegram: pegás los mensajes que te llegan de prospectos e inquilinos, y la IA te propone la mejor respuesta, evalúa perfiles y lleva el historial por vos.
 
-La filosofía es **Human-in-the-Loop**: la IA actúa, pero vos siempre tenés la última palabra.
+La filosofía es **Human-in-the-Loop**: vos siempre escribís y enviás — la IA nunca habla por vos, solo te ayuda a pensar mejor y más rápido.
 
 ### ¿Qué podés hacer con coDueño?
 
 |  |  |
 |---|---|
-| 🤖 **Atención automática** | La IA responde consultas de prospectos 24/7 siguiendo tus instrucciones |
-| 🎯 **Scoring de prospectos** | Evaluación automática del perfil de cada interesado antes de que inviertas tu tiempo |
+| 🧠 **Respuestas sugeridas** | Pegás el mensaje del prospecto y la IA te propone qué responder, con contexto de la propiedad y tus instrucciones |
+| 🎯 **Scoring de prospectos** | Evaluación automática del perfil de cada interesado para que sepas con quién vale la pena avanzar |
 | 🏠 **Gestión de propiedades** | Registrá activos, publicaciones y tickets de mantenimiento en un solo lugar |
 | 💬 **Historial completo** | Cada conversación queda registrada con contexto para que nada se te escape |
 | 💳 **Modelo flexible** | Pagá solo por los días que tus propiedades están activas — sin suscripciones fijas |
@@ -40,8 +40,9 @@ La filosofía es **Human-in-the-Loop**: la IA actúa, pero vos siempre tenés la
 ```
 1. Conectás tu Telegram a coDueño
 2. Cargás tus propiedades e instrucciones en lenguaje natural
-3. Un prospecto te escribe → la IA responde, filtra y registra
-4. Vos recibís un resumen y decidís el próximo paso
+3. Un prospecto te escribe → vos pegás su mensaje en el bot
+4. La IA analiza el contexto y te sugiere la respuesta ideal
+5. Vos la revisás, la ajustás si querés, y la enviás vos mismo
 ```
 
 > 🚧 **En desarrollo activo.** Próximamente disponible para propietarios argentinos.
@@ -50,16 +51,16 @@ La filosofía es **Human-in-the-Loop**: la IA actúa, pero vos siempre tenés la
 
 ## 🇬🇧 What is coDueño?
 
-**coDueño** is an intelligent assistant for landlords managing rentals in Argentina. Connect your Telegram account, load your properties and instructions, and let the AI handle conversations with prospects and tenants — on your behalf, at any hour.
+**coDueño** is your second brain for managing rentals in Argentina. It assists you through Telegram: paste the messages you receive from prospects and tenants, and the AI suggests the best reply, evaluates profiles, and keeps the full history for you.
 
-The philosophy is **Human-in-the-Loop**: the AI acts, but you always have the final say.
+The philosophy is **Human-in-the-Loop**: you always write and send — the AI never speaks on your behalf, it just helps you think faster and better.
 
 ### What can you do with coDueño?
 
 |  |  |
 |---|---|
-| 🤖 **Automatic handling** | AI answers prospect inquiries 24/7 following your instructions |
-| 🎯 **Prospect scoring** | Automatic profile evaluation of every interested party before you invest your time |
+| 🧠 **Suggested replies** | Paste a prospect's message and the AI proposes what to answer, with full context of the property and your instructions |
+| 🎯 **Prospect scoring** | Automatic profile evaluation of every interested party so you know who is worth pursuing |
 | 🏠 **Property management** | Register assets, listings, and maintenance tickets in one place |
 | 💬 **Full history** | Every conversation is recorded with context so nothing slips through |
 | 💳 **Flexible model** | Pay only for the days your properties are active — no fixed subscriptions |
@@ -69,8 +70,9 @@ The philosophy is **Human-in-the-Loop**: the AI acts, but you always have the fi
 ```
 1. You connect your Telegram to coDueño
 2. You load your properties and instructions in natural language
-3. A prospect messages you → AI responds, filters, and records
-4. You receive a summary and decide the next step
+3. A prospect messages you → you paste their message into the bot
+4. The AI analyzes the context and suggests the ideal reply
+5. You review it, adjust if needed, and send it yourself
 ```
 
 > 🚧 **Actively in development.** Coming soon for Argentine landlords.
@@ -79,14 +81,14 @@ The philosophy is **Human-in-the-Loop**: the AI acts, but you always have the fi
 
 ## 📈 Para inversores · For investors
 
-El mercado de gestión informal de alquileres en Argentina representa una oportunidad sin solución tecnológica consolidada. Los propietarios individuales dedican horas semanales a tareas repetitivas que coDueño automatiza sin quitarles el control.
+El mercado de gestión informal de alquileres en Argentina representa una oportunidad sin solución tecnológica consolidada. Los propietarios individuales dedican horas semanales a pensar qué responder, cómo filtrar interesados y llevar el seguimiento — coDueño acelera cada una de esas decisiones sin sacarle el control al dueño.
 
 **Modelo de negocio:**
 - SaaS por créditos: 1 crédito = 1 día de actividad por propiedad
 - Pago nativo con MercadoPago
 - El costo del cliente escala con su uso real, sin fricción de suscripciones
 
-The informal rental management market in Argentina represents an opportunity with no consolidated technological solution. Individual landlords spend hours weekly on repetitive tasks that coDueño automates without removing their control.
+The informal rental management market in Argentina represents an opportunity with no consolidated technological solution. Individual landlords spend hours weekly deciding how to respond, filtering prospects, and tracking follow-ups — coDueño accelerates every one of those decisions without removing the owner's control.
 
 **Business model:**
 - Credit-based SaaS: 1 credit = 1 active day per property
